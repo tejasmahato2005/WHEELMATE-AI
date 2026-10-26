@@ -1,0 +1,44 @@
+[
+  {
+    "role": "assistant",
+    "text": "\ud83d\udc4b Hi! I'm WheelMate AI. I'm here to help with wheelchair comfort, posture tips, and wellbeing guidance. What would you like to know?",
+    "icon": "\ud83e\udd16",
+    "time": "08:22"
+  },
+  {
+    "role": "user",
+    "text": "My back hurts",
+    "icon": "\ud83d\udc64",
+    "time": "08:22"
+  },
+  {
+    "role": "assistant",
+    "text": "Lumbar pain is common for wheelchair users. Try adjusting your backrest angle and add a lumbar support cushion. Consider shifting posture every 45\u201360 minutes.",
+    "icon": "\ud83e\ude7a",
+    "time": "08:22"
+  },
+  {
+    "role": "user",
+    "text": "How to sit properly?",
+    "icon": "\ud83d\udc64",
+    "time": "08:38"
+  },
+  {
+    "role": "assistant",
+    "text": "Good posture tips: Keep hips back in the seat, feet flat on footrests, knees at 90\u00b0, and back upright with lumbar support. Avoid leaning to one side.",
+    "icon": "\ud83e\ude91",
+    "time": "08:38"
+  },
+  {
+    "role": "user",
+    "text": "I feel tired",
+    "icon": "\ud83d\udc64",
+    "time": "08:48"
+  },
+  {
+    "role": "assistant",
+    "text": "Fatigue is normal after long sessions. Take a 10-minute rest every 2 hours. Ensure adequate hydration and nutrition throughout the day.",
+    "icon": "\ud83d\ude34",
+    "time": "08:48"
+  }
+]

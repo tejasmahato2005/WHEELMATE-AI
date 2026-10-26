@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "place": "Phoenix Mall",
+    "ramp": 4,
+    "washroom": 3,
+    "elevator": 5,
+    "space": 4,
+    "note": "Good ramps, elevator works well.",
+    "date": "2024-06-10"
+  },
+  {
+    "id": 2,
+    "place": "City Hospital",
+    "ramp": 5,
+    "washroom": 5,
+    "elevator": 5,
+    "space": 5,
+    "note": "Excellent accessibility throughout.",
+    "date": "2024-06-12"
+  },
+  {
+    "id": 3,
+    "place": "Central Park",
+    "ramp": 3,
+    "washroom": 2,
+    "elevator": 1,
+    "space": 5,
+    "note": "Open space but washroom needs work.",
+    "date": "2024-06-15"
+  },
+  {
+    "id": 4,
+    "place": "Metro Station",
+    "ramp": 4,
+    "washroom": 3,
+    "elevator": 4,
+    "space": 3,
+    "note": "Mostly accessible, rush hour tight.",
+    "date": "2024-06-18"
+  },
+  {
+    "id": 5,
+    "place": "Public Library",
+    "ramp": 5,
+    "washroom": 4,
+    "elevator": 5,
+    "space": 5,
+    "note": "One of the best accessible venues!",
+    "date": "2024-06-20"
+  }
+]

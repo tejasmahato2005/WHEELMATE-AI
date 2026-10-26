@@ -1,0 +1,9 @@
+{
+  "username": "Sarah",
+  "wheelchair_type": "Electric",
+  "daily_hours": 8,
+  "indoor_outdoor": "Both",
+  "cushion_pref": "Gel",
+  "comfort_setting": "Medium",
+  "back_pain": true
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "type": "Hydration",
+    "message": "Time to drink water! \ud83d\udca7",
+    "interval": "Every 2 hours",
+    "completed": true,
+    "created": "2024-01-01"
+  },
+  {
+    "id": 2,
+    "type": "Posture",
+    "message": "Adjust your posture now. \ud83e\ude91",
+    "interval": "Every 1 hour",
+    "completed": false,
+    "created": "2024-01-01"
+  },
+  {
+    "id": 3,
+    "type": "Medicine",
+    "message": "Take your afternoon medication. \ud83d\udc8a",
+    "interval": "Daily at 2 PM",
+    "completed": true,
+    "created": "2024-01-01"
+  },
+  {
+    "id": 4,
+    "type": "Stretch",
+    "message": "Do a 5-minute stretch! \ud83e\udd38",
+    "interval": "Every 3 hours",
+    "completed": true,
+    "created": "2024-01-01"
+  },
+  {
+    "id": 5,
+    "type": "Maintenance",
+    "message": "Check wheelchair tyre pressure. \ud83d\udd27",
+    "interval": "Weekly",
+    "completed": false,
+    "created": "2024-01-01"
+  },
+  {
+    "id": 8,
+    "type": "Custom",
+    "message": "Brush your teeth",
+    "interval": "Daily at 8 AM",
+    "completed": true,
+    "created": "2026-05-22"
+  },
+  {
+    "id": 9,
+    "type": "Custom",
+    "message": "Take a shower",
+    "interval": "Daily at 2 PM",
+    "completed": false,
+    "created": "2026-05-22"
+  }
+]
